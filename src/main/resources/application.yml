@@ -1,0 +1,14 @@
+elasticsearch:
+  host: localhost
+  port: 9200
+redis:
+  host: localhost
+  port: 6379
+  db: 0
+
+tracker:
+  expiredSeconds: 600
+
+behavior:
+  secretKey: z6ewPg2eTNEUckbhVMvUpcxNfvERFPtD
+  ivKey: F8bER23qbdZK9A74
